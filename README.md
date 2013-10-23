@@ -1,10 +1,8 @@
-strutsspringjpaexample
+jpa-with-angular
 ======================
 
-strutsspringjpaexample, strust 2.3.8-SNAPSHOT, spring 3.0.5.RLEASE, hibernate 3.5.1-Final
+jpa-with-angular, strust 2.3.8-SNAPSHOT, spring 3.0.5.RLEASE, hibernate 3.5.1-Final
 
-
-springjpaoracleexample project
 
 Introduction
 
@@ -93,7 +91,7 @@ Run The Application In Eclipse
 Running The Application Using Maven
  
 After checking out the project from subversion open a terminal window.  Navigate to the 
-project's root folder - root folder is named strutsspringjpaexample (the pom.xml file 
+project's root folder - root folder is named jpa-with-angular (the pom.xml file 
 should be in this folder).
 
 To run the tests use mvn -e clean test.
@@ -102,7 +100,7 @@ To run the application on the Jetty Servlet container use mvn -e jetty:run
 
 Once you see [INFO] Started Jetty Server in the console output, open a web browser and navigate to:
 
-     http://localhost:8080/strutsspringjpaexample/index.jsp
+     http://localhost:8080/jpa-with-angular/index.jsp
      
 Enter 1, 2, or 3 in the employee ID text box.
 
